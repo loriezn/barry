@@ -4,9 +4,23 @@
   "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
-  "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit"
+  "hubot-ansible"
+  "hubot-4chan"
+  "hubot-auth"
+  "hubot-available"
+  "hubot-bitly"
+  "hubot-chuck-norris"
+  "hubot-cleverbot"
+  "hubot-cloudflare-ddns"
+  "hubot-dns-watch"
+  "hubot-gistme"
+  "hubot-github-management"
+  "hubot-gmail-fetcher"
+  "hubot-gmail-watcher"
+  "hubot-twofactor"
+  "hubot-soundcloud"
 ]

@@ -6,8 +6,19 @@
   "description": "Learning Hubot through teaching barry to speak english",
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-4chan": "0.0.1",
     "hubot-ansible": "^0.1.2",
+    "hubot-auth": "^2.0.0",
+    "hubot-available": "^1.1.0",
+    "hubot-bitly": "^1.0.2",
+    "hubot-chuck-norris": "^1.1.1",
+    "hubot-cleverbot": "^1.0.0",
+    "hubot-cloudflare-ddns": "^1.0.9",
     "hubot-diagnostics": "0.0.1",
+    "hubot-dns-watch": "^1.0.3",
+    "hubot-gistme": "^0.1.1",
+    "hubot-gmail-fetcher": "^0.1.0",
+    "hubot-gmail-watcher": "^1.0.3",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.2.0",
@@ -19,7 +30,9 @@
     "hubot-scripts": "^2.17.2",
     "hubot-shell": "^1.0.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^4.0.2"
+    "hubot-slack": "^4.0.2",
+    "hubot-soundcloud": "0.0.1",
+    "hubot-twofactor": "^0.3.6"
   },
   "engines": {
     "node": "0.10.x"

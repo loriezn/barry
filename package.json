@@ -12,7 +12,7 @@
     "hubot-available": "^1.1.0",
     "hubot-bitly": "^1.0.2",
     "hubot-chuck-norris": "^1.1.1",
-    "hubot-cleverbot": "^1.0.0",
+    "hubot-cleverbot": "^2.0.0",
     "hubot-cloudflare-ddns": "^1.0.9",
     "hubot-diagnostics": "0.0.1",
     "hubot-dns-watch": "^1.0.3",
